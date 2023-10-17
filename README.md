@@ -18,3 +18,5 @@
 - **Senna**
 - **Yasuo**
 - **MissFortune**
+
+- **Katarina**
